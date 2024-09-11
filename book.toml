@@ -1,0 +1,6 @@
+[book]
+authors = ["GMNDS"]
+language = "pt-br"
+multilingual = false
+src = "src"
+title = "Jornada NixOS"
